@@ -1,0 +1,27 @@
+{
+  "name": "ps-icon-lib",
+  "version": "1.0.0",
+  "description": "A simple and lightweight framework-agnostic icon library using Web Components.",
+  "main": "ps-icon.js",
+  "type": "module",
+  "files": [
+    "ps-icon.js",
+    "icons/"
+  ],
+  "scripts": {
+    "test": "echo \"See demo.html for usage examples\" && exit 1"
+  },
+  "keywords": [
+    "icons",
+    "svg",
+    "web-components",
+    "framework-agnostic"
+  ],
+  "author": "Praveen Sripati",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/praveen-sripati/ps-icon-lib.git"
+  },
+  "homepage": "https://github.com/your-username/ps-icon-lib#readme"
+}
