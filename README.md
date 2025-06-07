@@ -23,8 +23,8 @@ npm install ps-icon-lib
 3.  **Use the custom tag** in your HTML:
 
     ```html
-    <ps-icon name="home"></ps-icon>
-    <ps-icon name="user"></ps-icon>
+    <ps-icon name="cloud"></ps-icon>
+    <ps-icon name="cloud-moon"></ps-icon>
     ```
 
 ### Styling
@@ -39,13 +39,18 @@ You can style the icons easily using CSS. The icon size is based on the `font-si
   }
 </style>
 
-<ps-icon name="home" class="big-red-icon"></ps-icon>
+<ps-icon name="cloud" class="big-red-icon"></ps-icon>
 ```
 
 ### Available Icons
 
-* `home`
-* `user`
+* `cloud`
+* `cloud-moon`
+* `cloud-fog`
+* `cloud-bolt`
+* `cloud-arrow`
+* `circle-heat`
+* `heat-alt`
 * *(add more as you create them)*
 
 ---
