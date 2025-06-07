@@ -27,6 +27,8 @@ npm install ps-icon-lib
     <ps-icon name="cloud-moon"></ps-icon>
     ```
 
+Usage of lib in different frameworks/libs like Angular, React, Vue or Svelte is given [here](icon-installation-guide.md)
+
 ### Styling
 
 You can style the icons easily using CSS. The icon size is based on the `font-size` and the color is based on the `color` property.
