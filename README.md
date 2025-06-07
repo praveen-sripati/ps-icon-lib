@@ -49,4 +49,4 @@ You can style the icons easily using CSS. The icon size is based on the `font-si
 * *(add more as you create them)*
 
 ---
-Made with ❤️ by Your Praveen Sripati.
+Made with ❤️ by Praveen Sripati.
